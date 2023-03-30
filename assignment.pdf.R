@@ -1,6 +1,6 @@
 Create a phylogenetic tree for following nodes, save pdf as tree assignment.pdf, upload it to the Github repossitory
 
-#Author: Joanna Kolawole. Date: Purpose: To generate a phylogenetic tree (Homework)
+#Author: Joanna Kolawole. Date: March 30th Purpose: To generate a phylogenetic tree (Homework)
 install.packages("ape")
 install.packages("phangorn")
 install.packages("phytools")
